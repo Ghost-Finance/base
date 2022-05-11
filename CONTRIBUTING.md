@@ -10,7 +10,6 @@
 ---
 
 ## DEVELOPMENT ENVIRONMENT
-<img width="784" alt="envdev" src="https://user-images.githubusercontent.com/50037567/167924906-e9791796-c673-49b6-957b-493b33745907.png">
 
 **pre-req**
 
@@ -20,6 +19,8 @@
 
 1. Update the image with `Dockerfile`
 2. Development and test inside a container before do `git push`
+
+<img width="784" alt="envdev" src="https://user-images.githubusercontent.com/50037567/167924906-e9791796-c673-49b6-957b-493b33745907.png">
 
 ---
 
