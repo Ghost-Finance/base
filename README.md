@@ -1,4 +1,4 @@
-# Prject
+# Template Repository
 
 [Badges]()
 
