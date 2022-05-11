@@ -10,7 +10,8 @@
 ---
 
 ## DEVELOPMENT ENVIRONMENT
-![](envdev.png)
+<img width="784" alt="envdev" src="https://user-images.githubusercontent.com/50037567/167924906-e9791796-c673-49b6-957b-493b33745907.png">
+
 **pre-req**
 
 - [docker](https://docs.docker.com/engine/install/)
