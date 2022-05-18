@@ -3,7 +3,7 @@
 ## WORKFLOW
 
 1. Create and describe your **proposal/bug** in an _issue_.
-2. Create a new **branch** and **pull request** with the pattern `1-my-feature`.
+2. Create a new **branch** and **pull request** with the pattern `feature/*` or `bug/*`.
 
 <img width="1172" alt="Gitlab Flow" src="https://user-images.githubusercontent.com/50037567/165442258-072abfe6-2295-40d6-a573-92f851878c4c.png">
 
@@ -57,7 +57,6 @@ Major.Minor.Patch (e.g. 1.3.4)
 ## READTHEDOCS
 
 - [Development Inside a Container](https://code.visualstudio.com/docs/remote/containers#_getting-started)
-- [Trunk Base Development](https://trunkbaseddevelopment.com)
 - [Trunk Base Development](https://trunkbaseddevelopment.com)
 - [Good Practices](https://bestpractices.coreinfrastructure.org/pt-BR)
 - [Semantic Versioning](https://semver.org/lang/pt-BR/)
